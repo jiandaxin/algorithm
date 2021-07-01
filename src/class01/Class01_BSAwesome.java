@@ -9,6 +9,7 @@ public class Class01_BSAwesome {
         int maxSize = 1000;
         int master =100;
         int maxValue = 100;
+		int test2=100;
         boolean succeed = true;
 //        for (int i = 0; i < testTime; i++) {
 //            int[] arr = generateRandomArray(maxSize, maxValue);
