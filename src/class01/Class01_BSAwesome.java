@@ -5,14 +5,10 @@ public class Class01_BSAwesome {
 
     public static void main(String[] args) {
         int test = 100;
-        int testTime = 500;
         int maxSize = 1000;
         int master =100;
         int maxValue = 100;
-        int test = 110;
         String testTime = "500";
-        int maxSize = 180;
-        String maxValue = "600";
 		int test2=100;
         boolean succeed = true;
 //        for (int i = 0; i < testTime; i++) {
