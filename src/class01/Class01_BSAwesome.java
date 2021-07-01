@@ -4,11 +4,10 @@ public class Class01_BSAwesome {
 
 
     public static void main(String[] args) {
-        int test = 100;
-        int testTime = 500;
-        int maxSize = 1000;
-        int master =100;
-        int maxValue = 100;
+        for (int i = 0; i <100; i++) {
+            System.out.println(i);
+            int maxValue = 100;
+        }
 		int test2=100;
         boolean succeed = true;
 //        for (int i = 0; i < testTime; i++) {
