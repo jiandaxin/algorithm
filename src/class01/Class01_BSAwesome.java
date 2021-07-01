@@ -5,7 +5,7 @@ public class Class01_BSAwesome {
 
     public static void main(String[] args) {
 
-        int testTime = 50;
+        int testTime = 500;
         int maxSize = 100;
         int maxValue = 100;
         boolean succeed = true;
